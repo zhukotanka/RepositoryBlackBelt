@@ -27,3 +27,9 @@ class A{
         System.out.println("dsvbsvfsbfdbfdbdgbdgbgdbgb");
     }
 }
+
+class B{
+    public static void main(String[] args) {
+        System.out.println("dsvbsvfsbfdbfdbdgbdgbgdbgb");
+    }
+}
