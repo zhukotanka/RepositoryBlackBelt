@@ -1,3 +1,5 @@
+package Tests.src;
+
 public class mailFinder {
     public static void main(String[] args) {
         String emails = "ya@yahoo.com; on@mail.ru; ona@gmail.com; xersobachiy@ukr.net; ";
@@ -9,17 +11,6 @@ public class mailFinder {
             if(emails.charAt(j)==';'){
                 System.out.println();
             }
-
-
-
-
-
-
-
-
-
-
-
 
             if(emails.charAt(j)=='@'){
                 while (emails.charAt(j+1)!='.'){
