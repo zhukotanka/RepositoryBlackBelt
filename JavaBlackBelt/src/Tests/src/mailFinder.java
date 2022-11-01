@@ -39,3 +39,9 @@ class C{
         System.out.println("dsvbsvfsbfdbfdbdgbdgbgdbgb");
     }
 }
+
+class D{
+    public static void main(String[] args) {
+        System.out.println("dsvbsvfsbfdbfdbdgbdgbgdbgb");
+    }
+}
