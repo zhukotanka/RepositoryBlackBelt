@@ -51,3 +51,9 @@ class E{
         System.out.println("dsvbsvfsbfdbfdbdgbdgbgdbgb");
     }
 }
+
+class F{
+    public static void main(String[] args) {
+        System.out.println("dsvbsvfsbfdbfdbdgbdgbgdbgb");
+    }
+}
